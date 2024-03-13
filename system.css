@@ -7,7 +7,9 @@ body {
     background-image: url(launchingsoon.gif);
     background-position: center;
     background-size: cover;
+    height: 45vh;
 }
+
 
 /* Maintenance container */
  
@@ -18,9 +20,25 @@ body {
     font-weight: bolder;
     font-family: 'Courier New', Courier, monospace;
     color: white;
+    margin-left: 30px;
 }
 
 .maintenanceContainer span {
     color: red;
     text-transform: uppercase;
+}
+
+/* Buttons */
+
+.learnmore {
+    background: transparent;
+    border: 2px solid whitE;
+    border-width: 3px;
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
 }
