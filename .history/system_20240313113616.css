@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Maintenance container */
+ 
+.maintenanceContainer {
+    margin-top: 8.5cm;
+    line-height: 1cm;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
