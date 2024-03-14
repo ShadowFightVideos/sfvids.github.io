@@ -35,7 +35,7 @@ body {
     border-width: 3px;
     width: 150px;
     height: 50px;
-    margin-top: 20px;
+    margin-top: 10px;
     color: white;
     font-size: 16px;
     font-weight: bolder;
@@ -43,25 +43,8 @@ body {
 }
 
 .navbar {
-    position: fixed;
-    text-justify: right;
-    top: 0;
-    right: 0;
-    margin-right: 4cm;
-    margin-top: 20px;
-}
-
-.navbar ul {
-    list-style-type: none;
-}
-
-.navbar li {
-       display: inline-block;
-       padding: 10px;
-}
-
-.navbar li a {
+    float: right;
     color: white;
-    font-size: 16px;
     text-decoration: none;
+    text-align: right;
 }

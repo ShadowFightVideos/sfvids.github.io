@@ -7,7 +7,7 @@ body {
     background-image: url(launchingsoon.gif);
     background-position: center;
     background-size: cover;
-    height: 90vh;
+    height: 45vh;
 }
 
 
@@ -35,33 +35,9 @@ body {
     border-width: 3px;
     width: 150px;
     height: 50px;
-    margin-top: 20px;
+    margin-top: 10px;
     color: white;
     font-size: 16px;
-    font-weight: bolder;
+    font-weight: bold;
     cursor: pointer;
-}
-
-.navbar {
-    position: fixed;
-    text-justify: right;
-    top: 0;
-    right: 0;
-    margin-right: 4cm;
-    margin-top: 20px;
-}
-
-.navbar ul {
-    list-style-type: none;
-}
-
-.navbar li {
-       display: inline-block;
-       padding: 10px;
-}
-
-.navbar li a {
-    color: white;
-    font-size: 16px;
-    text-decoration: none;
 }
