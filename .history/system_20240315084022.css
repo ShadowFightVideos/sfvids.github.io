@@ -10,10 +10,6 @@ body {
     height: 50vh;
 }
 
-.bgimgcss {
-    height: 50vh;
-}
-
 
 /* Maintenance container */
  
@@ -78,11 +74,6 @@ article {
     background: #fff;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
-    
-}
-
-.articlecss1 {
-    width: 90%;
-    margin-left: 55px;
+    margin-bottom: 100px;
 }
 
